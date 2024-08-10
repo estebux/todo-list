@@ -2,6 +2,9 @@
 
 En este repositorio encontrarás el código del proyecto Todo-list donde el usuario puede crear de forma dinámica, una lista de quehaceres diarios. Dicha lista se guarda en localstorage del navegador. Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
 
+## GitHUb Pages
+En el siguiente link se puede probar la app: [https://estebux.github.io/todo-list/](https://estebux.github.io/todo-list/)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
