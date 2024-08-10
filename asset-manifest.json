@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Users/usuario/Desktop/todo-list/build/static/css/main.72064b71.css",
-    "main.js": "/Users/usuario/Desktop/todo-list/build/static/js/main.57c41c77.js",
-    "static/media/platzi.webp": "/Users/usuario/Desktop/todo-list/build/static/media/platzi.5b31ce99c22184cfdc82.webp",
-    "index.html": "/Users/usuario/Desktop/todo-list/build/index.html",
-    "static/media/delete.svg": "/Users/usuario/Desktop/todo-list/build/static/media/delete.f8e04b980f4a347b447ca1bb82768b46.svg",
-    "static/media/check.svg": "/Users/usuario/Desktop/todo-list/build/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
-    "main.72064b71.css.map": "/Users/usuario/Desktop/todo-list/build/static/css/main.72064b71.css.map",
-    "main.57c41c77.js.map": "/Users/usuario/Desktop/todo-list/build/static/js/main.57c41c77.js.map"
+    "main.css": "./static/css/main.72064b71.css",
+    "main.js": "./static/js/main.03f0620a.js",
+    "static/media/platzi.webp": "./static/media/platzi.5b31ce99c22184cfdc82.webp",
+    "index.html": "./index.html",
+    "static/media/delete.svg": "./static/media/delete.f8e04b980f4a347b447ca1bb82768b46.svg",
+    "static/media/check.svg": "./static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.72064b71.css.map": "./static/css/main.72064b71.css.map",
+    "main.03f0620a.js.map": "./static/js/main.03f0620a.js.map"
   },
   "entrypoints": [
     "static/css/main.72064b71.css",
-    "static/js/main.57c41c77.js"
+    "static/js/main.03f0620a.js"
   ]
 }
