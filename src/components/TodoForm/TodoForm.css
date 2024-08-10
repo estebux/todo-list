@@ -69,3 +69,16 @@ form {
   .TodoForm-button--cancel {
     background: transparent;
   }
+.TodoForm-error-message {
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.oculto {
+  display: none;
+}
+
+.visible {
+  display: inline;
+}
